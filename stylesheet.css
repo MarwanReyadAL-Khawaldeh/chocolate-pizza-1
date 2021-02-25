@@ -89,7 +89,7 @@ h1{
 article p{
   white-space: break-spaces;
   font-family: 'Times New Roman', Times, serif;
-  fo
+  
 }
 
 .text2{
@@ -106,14 +106,14 @@ article p{
 
 .ingrediants ul li {
     list-style: none;
-    paddi
+    
 }
 
 #rightUL{
-    display: block;
-    float : right;
-    margin-right : 75px;
-    margin-top : -132px;
+    display:block;
+    float :right;
+    margin-right: 75px;
+    margin-top: -132px;
 }
 
 
@@ -121,9 +121,16 @@ article p{
     padding-top: 39px;
 }
 
-.lastSection img{
+.lastSection img {
     float: left;
+    
 }
+
+footer{
+    text-align: center;
+}
+
+
 
 
 
